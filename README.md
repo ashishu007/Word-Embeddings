@@ -1,26 +1,29 @@
 ## Introduction to Word Embeddings
 
-This repository is aimed to provide a abstract level introduction on Word Embeddings.
+This repository is aimed to provide an abstract level introduction to different Word Embeddings in NLP.
 
 * [embeddings.ipynb](./embeddings.ipynb) file contains the code with explanation for the tutorial.
 * [WordEmbeddings.md](./WordEmbeddings.md) is the lecture note for the python notebook codes.
 
-### Run the code
+### How to run the code
+
+To run the code, follow these steps:
 
 1. `git clone https://github.com/panditu2015/Word-Embeddings.git`
 2. `cd Word-Embeddings`
 3. `pip install -r requirements.txt`
 4. `jupyter notebook`
+5. Open [embeddings.ipynb](./embeddings.ipynb) in your browser now.
 
 ### Resources
 
 * **Stanford's CS276**: [Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)
 
 * **Stanford's CS224n**: [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
-    * Lectures useful: 1 (Jan 8), 2 (Jan 10), 13 (Feb 19)
+    * Useful lectures: 1 (Jan 8), 2 (Jan 10), 13 (Feb 19)
 
 * **Stanford's CS224U**: [Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
-    * Lectures useful: 2 (Apr 8), 7 (May 11)
+    * Useful lectures: 2 (Apr 8), 7 (May 11)
 
 * A really nice blog on the intuition of Word Embeddings: 
     - [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)
