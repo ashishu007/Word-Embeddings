@@ -2,7 +2,7 @@
 
 This repository is aimed to provide an abstract level introduction to different Word Embeddings in NLP.
 
-* [embeddings.ipynb](./embeddings.ipynb) file contains the code with explanation for the tutorial.
+<!-- * [word_embs.ipynb](./embeddings.ipynb) file contains the code with explanation for the tutorial. -->
 * [WordEmbeddings.md](./WordEmbeddings.md) is the lecture note for the python notebook codes.
 
 ### How to run the code
@@ -13,9 +13,11 @@ To run the code, follow these steps:
 2. `cd Word-Embeddings`
 3. `pip install -r requirements.txt`
 4. `jupyter notebook`
-5. Open [embeddings.ipynb](./embeddings.ipynb) in your browser now.
+5. Open [word_embs.ipynb](./embeddings.ipynb) in your browser now.
 
 ### Resources
+
+* Most of the code is written using `pymagnitude` library in Python.
 
 * **Stanford's CS276**: [Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)
 
