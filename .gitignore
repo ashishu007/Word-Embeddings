@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# embedding files
+*.magnitude
+*.vec
+*.bin
+*.hdf5
+
 # Distribution / packaging
 .Python
 build/
