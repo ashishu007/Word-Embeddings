@@ -7,7 +7,7 @@ def similarity_between_vecs(vec1, vec2):
     v2 = np.reshape(vec2, (1, -1))
     return cosine_similarity(v1, v2)[0][0]
 
-def similarity_between_docs(doc1, doc2, is_1d=False):
+def similarity_between_docs(doc1, doc2, is_2d=False):
     if is_1d:
         v1 = np.reshape(doc1, (1, -1))
         v2 = np.reshape(doc2, (1, -1))
