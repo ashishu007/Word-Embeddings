@@ -33,6 +33,9 @@ To run the code, follow these steps:
 * A great blog on Contextual Embeddings:
     - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/).
 
+* A blog on BERT:
+    - [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+
 * Lecture on [Distributed Representations](http://web.stanford.edu/class/cs276/19handouts/lecture14-distributed-representations-1per.pdf) from CS276.
 
 * A lecture note on [Word Embeddings](https://arxiv.org/pdf/1902.06006.pdf) from CS224n.

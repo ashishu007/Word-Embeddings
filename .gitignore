@@ -10,7 +10,6 @@ __pycache__/
 *.magnitude
 *.vec
 *.bin
-*.hdf5
 *.crdownload
 
 # Distribution / packaging
