@@ -11,6 +11,7 @@ __pycache__/
 *.vec
 *.bin
 *.hdf5
+*.crdownload
 
 # Distribution / packaging
 .Python
