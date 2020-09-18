@@ -16,7 +16,8 @@ def similarity_between_docs(doc1, doc2, is_1d=False):
 
 def plot_1d_heatmap(vec, name):
     v = vec.reshape(1, -1)
-    plt.figure(figsize=(20, 2))
+    plt.figure(figsize=(40, 4))
     sns.heatmap(v).set_title(name)
+    plt.rcParams.update({"font.size": 22})
     plt.show()
     return 
