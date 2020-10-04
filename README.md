@@ -14,6 +14,16 @@ To run the code, follow these steps:
 4. `jupyter notebook`
 5. Open [word_embs.ipynb](./word_embs.ipynb) in your browser now.
 
+### Run on Google-Colab
+
+To run on `google-colab`, follow this link:
+
+[https://colab.research.google.com/drive/1vEO_P564JAjTd-3El6C9lmZokZ0U9UnC](https://colab.research.google.com/drive/1vEO_P564JAjTd-3El6C9lmZokZ0U9UnC)
+
+* From the menu on top, click **Runtime**
+* Then click **Change runtime type**
+* Under **Hardware Accelarator**, select **GPU**
+
 ### Resources
 
 * Most of the code is written using `pymagnitude` [library](https://github.com/plasticityai/magnitude) in Python.
