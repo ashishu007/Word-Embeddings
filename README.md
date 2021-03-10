@@ -4,7 +4,7 @@ This repository is aimed to provide an abstract level introduction to different 
 
 * [word_embs.ipynb](./word_embs.ipynb) file contains the code with explanation for the tutorial.
 
-Read this repo on a blog: [Semantic Representations](https://ashishu007.github.io/nlp-blog/jupyter/nlp/2020/11/22/Semantic_Representation.html)
+Read this repo on a blog: [Semantic Representations](https://ashishu007.github.io/nlp-blog/jupyter/nlp/2020/12/10/Semantic_Representation.html)
 
 ## How to run the code
 
